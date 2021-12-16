@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Statistics/statistics.module.css"],"names":[],"mappings":"AAAA,wBACI,aAAuB,CACvB,cAAe,CACf,iBACF,CACA,6BACE,eACF","file":"main.97b02c53.chunk.css","sourcesContent":[".item {\n    color: rgb(255, 123, 0);\n    font-size: 30px;\n    margin-right: 50px;\n  }\n  .container {\n    list-style: none;\n  }"]}
