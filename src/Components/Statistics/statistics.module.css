@@ -1,0 +1,8 @@
+.item {
+    color: rgb(255, 123, 0);
+    font-size: 30px;
+    margin-right: 50px;
+  }
+  .container {
+    list-style: none;
+  }
